@@ -7,5 +7,5 @@ This is a sample project demonstrating the use of UXCam sdk for react-native wit
 * Clone the app
 * Get the app key from uxcam.com
 * Inside `App.js`  replace `UXCAM_APP_KEY` in `RNUxcam.startWithKey('UXCAM_APP_KEY');` with your app key
-* Run the android app using this code `react-native run-android` in the main directory of the app
-* Run the iOS app using this code `react-native run-ios` n the main directory of the app
+* Run the android app using this code `react-native run-android` inside the main directory of the app
+* Run the iOS app using this code `react-native run-ios` inside the main directory of the app
