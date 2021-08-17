@@ -1,4 +1,8 @@
-# uxcam-sample-react-native-with-typescript
+# DEPRECATED
+## This repo is deprecated and will no longer be updated - the UXCam Typescript example has moved to [here](https://github.com/uxcam/react-native-ux-cam) in folder UXCamReactExample-Typescript  
+
+
+
 ### UXCam integrated sample app for react-native with typescript.
 
 This is a sample project demonstrating the use of UXCam sdk for react-native with typescript.
